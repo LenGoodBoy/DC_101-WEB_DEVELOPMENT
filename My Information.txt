@@ -1,0 +1,7 @@
+Name: Lenle A. Fragata
+CYS:
+Course: BSCS
+Instructor: Eugene Fortunado
+Age: 21
+Address: San Benito, Lipa City 
+Contact Number: 09954448259
